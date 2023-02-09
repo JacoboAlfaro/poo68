@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Poppins;
+    src: url(../fonts/Poppins-Light.ttf);
+}
+body{
+    
+    background-color: #2054B2;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 1000'%3E%3Cg %3E%3Ccircle fill='%232054B2' cx='50' cy='0' r='50'/%3E%3Cg fill='%23005fbb' %3E%3Ccircle cx='0' cy='50' r='50'/%3E%3Ccircle cx='100' cy='50' r='50'/%3E%3C/g%3E%3Ccircle fill='%230069c2' cx='50' cy='100' r='50'/%3E%3Cg fill='%230072c7' %3E%3Ccircle cx='0' cy='150' r='50'/%3E%3Ccircle cx='100' cy='150' r='50'/%3E%3C/g%3E%3Ccircle fill='%23007ccb' cx='50' cy='200' r='50'/%3E%3Cg fill='%230085cd' %3E%3Ccircle cx='0' cy='250' r='50'/%3E%3Ccircle cx='100' cy='250' r='50'/%3E%3C/g%3E%3Ccircle fill='%23008dce' cx='50' cy='300' r='50'/%3E%3Cg fill='%230096ce' %3E%3Ccircle cx='0' cy='350' r='50'/%3E%3Ccircle cx='100' cy='350' r='50'/%3E%3C/g%3E%3Ccircle fill='%23009ecc' cx='50' cy='400' r='50'/%3E%3Cg fill='%2300a6ca' %3E%3Ccircle cx='0' cy='450' r='50'/%3E%3Ccircle cx='100' cy='450' r='50'/%3E%3C/g%3E%3Ccircle fill='%2300adc7' cx='50' cy='500' r='50'/%3E%3Cg fill='%2300b5c3' %3E%3Ccircle cx='0' cy='550' r='50'/%3E%3Ccircle cx='100' cy='550' r='50'/%3E%3C/g%3E%3Ccircle fill='%2300bcc0' cx='50' cy='600' r='50'/%3E%3Cg fill='%2300c3bc' %3E%3Ccircle cx='0' cy='650' r='50'/%3E%3Ccircle cx='100' cy='650' r='50'/%3E%3C/g%3E%3Ccircle fill='%2321cab8' cx='50' cy='700' r='50'/%3E%3Cg fill='%2349d0b5' %3E%3Ccircle cx='0' cy='750' r='50'/%3E%3Ccircle cx='100' cy='750' r='50'/%3E%3C/g%3E%3Ccircle fill='%2364d6b2' cx='50' cy='800' r='50'/%3E%3Cg fill='%237bdcaf' %3E%3Ccircle cx='0' cy='850' r='50'/%3E%3Ccircle cx='100' cy='850' r='50'/%3E%3C/g%3E%3Ccircle fill='%2391e2ae' cx='50' cy='900' r='50'/%3E%3Cg fill='%23a5e8ad' %3E%3Ccircle cx='0' cy='950' r='50'/%3E%3Ccircle cx='100' cy='950' r='50'/%3E%3C/g%3E%3Ccircle fill='%23B8EDAE' cx='50' cy='1000' r='50'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: contain;
+font-family: Poppins;
+}
+section::-webkit-scrollbar {
+    width: 12px;              
+  }
+  
+  section::-webkit-scrollbar-track {
+    background: none       
+  }
+  
+  section::-webkit-scrollbar-thumb {
+    background-color: rgb(0, 0, 0);   
+    border-radius: 20px;        
+  }
