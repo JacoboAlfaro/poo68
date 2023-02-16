@@ -11,7 +11,7 @@ body{
 font-family: Poppins;
 }
 section::-webkit-scrollbar {
-    width: 12px;              
+    width: 6px;              
   }
   
   section::-webkit-scrollbar-track {
@@ -19,6 +19,6 @@ section::-webkit-scrollbar {
   }
   
   section::-webkit-scrollbar-thumb {
-    background-color: rgb(0, 0, 0);   
+    background-color: rgb(21, 21, 21);   
     border-radius: 20px;        
   }
